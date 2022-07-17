@@ -9,5 +9,3 @@ Instagram của tôi -> [![Instagram](https://img.shields.io/badge/Instagram-%23
 Twitter của tôi -> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/huyquach_tony) 
 ##
 Youtube của tôi -> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCT-PZba5zrBupsRNmLY7TfQ) 
-##
-Github của tôi -> [![Github](https://img.shields.io/badge/Github-%23FF0000.svg?logo=Github&logoColor=white)](https://github.com/TonyyHuyy) 
